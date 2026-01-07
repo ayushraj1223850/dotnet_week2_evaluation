@@ -29,7 +29,7 @@ The following UML class diagram represents the overall structure and relationshi
 
 📷 **Class Diagram:**
 
-![Class Diagram](screenshots/class-diagram.png)
+![Class Diagram](screenshots/ClassDiagram.png)
 
 ---
 
@@ -55,3 +55,4 @@ The following UML class diagram represents the overall structure and relationshi
 ### 🔹 LedgerCalculator (Static Helper Class)
 - Performs calculation logic only
 - Used inter
+
